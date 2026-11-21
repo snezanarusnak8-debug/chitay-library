@@ -1,0 +1,6 @@
+{
+  "name": "chitay — Цифровая библиотека и книжный дневник",
+  "description": "Персональная эстетичная цифровая библиотека для чтения книг, стилизованного аннотирования, сохранения цитат, ведения дневника и творческого оформления страниц в режиме Scrapbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
